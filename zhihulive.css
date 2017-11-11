@@ -1,0 +1,5 @@
+@-moz-document domain(zhihu.com) {
+  .RelatedLives-list{
+    display none;
+  }
+}
